@@ -1,0 +1,7 @@
+[Activity]
+name = Lion
+activity_version = 2
+bundle_id = org.sugarlabs.Lion
+exec = sugar-activity activity.LionActivity
+icon = activity-lion
+license = GPLv2+
